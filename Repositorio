@@ -1,0 +1,17 @@
+@Repository
+public class AlunoRepository {
+
+    private Map<Long, Aluno> banco = new HashMap<>();
+    private AtomicLong sequence = new AtomicLong(1);
+
+    public Aluno salvar(Aluno aluno) {
+        Long id = sequence.getAndIncrement();
+        aluno.setId(id);
+        banco.put(id, aluno);
+        return aluno;
+    }
+
+    public Aluno buscarPorId(Long id) {
+        return banco.get(id);
+    }
+}
