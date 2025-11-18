@@ -1,0 +1,17 @@
+@Service
+public class AlunoService {
+
+    private final AlunoRepository repository;
+
+    public AlunoService(AlunoRepository repository) {
+        this.repository = repository;
+    }
+
+    public Aluno criar(Aluno aluno) {
+        return repository.salvar(aluno);
+    }
+
+    public Aluno buscarPorId(Long id) {
+        return repository.buscarPorId(id);
+    }
+}
