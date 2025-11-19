@@ -1,31 +1,43 @@
 {
-  "nome": "Alice Souza",
-  "dataNascimento": "06/10/2016",
-  "responsaveisIds": ["Marina Souza", "Paulo Souza"],
-  "turmaId": "4º ano"
+  "nome": "Bernardo Marquense",
+  "dataNascimento": "17/08/2021",
+  "responsaveisIds": ["Becholina Marquense", "Andrialison Marquense"],
+  "turmaId": "Nível V"
 }
 {
-  "nome": "Bruno Macedo",
-  "dataNascimento": "12/11/2017",
-  "responsaveisIds": ["Samara Macedo", "Micael Macedo"],
-  "turmaId": "3º ano"
+  "nome": "Bernardete Marquense",
+  "dataNascimento": "17/08/2021",
+  "responsaveisIds": ["Becholina Marquense", "Andrialison Oliveira"],
+  "turmaId": "Nível V"
 }
 {
-  "nome": "Isa Fernandes",
-  "dataNascimento": "20/01/2018",
-  "responsaveisIds": ["Aline Fernandes", "Isaquiel Fernandes"],
-  "turmaId": "2º ano"
+  "nome": "Eleonor Souza",
+  "dataNascimento": "22/02/2021",
+  "responsaveisIds": ["Apolonha Oliveira", "Janiálison Oliveira"],
+  "turmaId": "Nível V"
 }
 {
-  "nome": "pedro Viana",
-  "dataNascimento": "06/06/2019",
-  "responsaveisIds": ["Beatriz Viana", "Nycolas Viana"],
-  "turmaId": "2º ano"
+  "nome": "Anelise Ishikawa",
+  "dataNascimento": "02/09/2021",
+  "responsaveisIds": ["Teodoro Ishikawa", "Teodora Ishikawa"],
+  "turmaId": "Nível V"
 }
 {
-  "nome": " André Souza",
+  "nome": "Sandro Costa",
+  "dataNascimento": "19/01/2021",
+  "responsaveisIds": ["Natasha Costa", "Vaseslau Costa"],
+  "turmaId": "Nível V"
+}
+{
+  "nome": "Jorge Araújo ",
   "dataNascimento": "21/09/2020",
-  "responsaveisIds": ["Sara Souza", "Andreilderson Souza"],
+  "responsaveisIds": ["Mirela Araújo", "Ojuara Araújo"],
+  "turmaId": "1º ano"
+}
+{
+  "nome": "André Souza",
+  "dataNascimento": "28/09/2020",
+  "responsaveisIds": ["Agosia Souza","Francisglaisson Souza"],
   "turmaId": "1º ano"
 }
 {
@@ -35,9 +47,15 @@
   "turmaId": "1º ano"
 }
 {
-  "nome": "Jorge Araújo ",
-  "dataNascimento": "21/09/2020",
-  "responsaveisIds": ["Mirela Araújo", "Ojuara Araújo"],
+  "nome": " Carla Figuero",
+  "dataNascimento": "11/10/2020",
+  "responsaveisIds": ["Rebeka Figuero", "Joel Figueiro"],
+  "turmaId": "1º ano"
+}
+{
+  "nome": " Daniel Itajá",
+  "dataNascimento": "01/07/2020",
+  "responsaveisIds": ["Lauretania Itajá", "Mali Itajá"],
   "turmaId": "1º ano"
 }
 {
@@ -46,4 +64,87 @@
   "responsaveisIds": ["Clenilda Grilo", "Murilo Grilo"],
   "turmaId": "2º ano"
 }
+{
+  "nome": "Isa Fernandes",
+  "dataNascimento": "20/01/2019",
+  "responsaveisIds": ["Aline Fernandes", "Isaquiel Fernandes"],
+  "turmaId": "2º ano"
+
+{
+  "nome": "Pedro Viana",
+  "dataNascimento": "06/06/2019",
+  "responsaveisIds": ["Beatriz Viana", "Nycolas Viana"],
+  "turmaId": "2º ano"
+}
+{
+  "nome": "Fibraldo Centrifuga",
+  "dataNascimento": "21/08/2019",
+  "responsaveisIds": ["Debian Centrifuga", "Latex Centrifuga"],
+  "turmaId": "2º ano"
+}
+{
+  "nome": "Stanley Armando",
+  "dataNascimento": "17/02/2019",
+  "responsaveisIds": ["Cecílha Armando", "Aldebrã Armando"],
+  "turmaId": "2º ano"
+}
+{
+  "nome": "Bruno Macedo",
+  "dataNascimento": "12/11/2018",
+  "responsaveisIds": ["Samara Macedo", "Micael Macedo"],
+  "turmaId": "3º ano"
+}
+{
+  "nome": "Tanos Floriano",
+  "dataNascimento": "26/11/2018",
+  "responsaveisIds": ["Carmem Floriano", "Leopoudo Floriano"],
+  "turmaId": "3º ano"
+}
+{
+  "nome": "Vanderson Martins",
+  "dataNascimento": "07/01/2018",
+  "responsaveisIds": ["Aurora Martins", "Rafael Martins"],
+  "turmaId": "3º ano"
+}
+{
+  "nome": "Tixanypê Limpauvo",
+  "dataNascimento": "04/09/2018",
+  "responsaveisIds": ["Vanda Limpauvo", "Victor Limpauvo"],
+  "turmaId": "3º ano"
+}
+{
+  "nome": "Medix Plasmiano",
+  "dataNascimento": "17/05/2018",
+  "responsaveisIds": ["Lissandra Plasmiano", "Dorian Plasmiano"],
+  "turmaId": "3º ano"
+}
+{
+  "nome": "Alice Souza",
+  "dataNascimento": "06/10/2017",
+  "responsaveisIds": ["Marina Souza", "Paulo Souza"],
+  "turmaId": "4º ano"
+}
+{
+  "nome": Amanda Garcia",
+  "dataNascimento": "20/11/2017",
+  "responsaveisIds": ["Eliara Garcia", "Milo Garcia"],
+  "turmaId": "4º ano"
+}
+{
+  "nome": "Daiki Lee",
+  "dataNascimento": "04/04/2017",
+  "responsaveisIds": ["Surime Lee", "Suzako Lee"],
+  "turmaId": "4º ano"
+}
+{
+  "nome": "Gerósia Borges",
+  "dataNascimento": "30/07/2017",
+  "responsaveisIds": ["Celeni Borges", "Ilano Borges"],
+  "turmaId": "4º ano"
+}
+
+
+
+
+
 
