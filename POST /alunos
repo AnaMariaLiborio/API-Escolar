@@ -1,6 +1,49 @@
 {
-  "nome": "Lara Moreira",
-  "dataNascimento": "2021-05-06",
-  "responsaveisIds": ["r1", "r2"],
-  "turmaId": "t3"
+  "nome": "Alice Souza",
+  "dataNascimento": "06/10/2016",
+  "responsaveisIds": ["Marina Souza", "Paulo Souza"],
+  "turmaId": "4º ano"
 }
+{
+  "nome": "Bruno Macedo",
+  "dataNascimento": "12/11/2017",
+  "responsaveisIds": ["Samara Macedo", "Micael Macedo"],
+  "turmaId": "3º ano"
+}
+{
+  "nome": "Isa Fernandes",
+  "dataNascimento": "20/01/2018",
+  "responsaveisIds": ["Aline Fernandes", "Isaquiel Fernandes"],
+  "turmaId": "2º ano"
+}
+{
+  "nome": "pedro Viana",
+  "dataNascimento": "06/06/2019",
+  "responsaveisIds": ["Beatriz Viana", "Nycolas Viana"],
+  "turmaId": "2º ano"
+}
+{
+  "nome": " André Souza",
+  "dataNascimento": "21/09/2020",
+  "responsaveisIds": ["Sara Souza", "Andreilderson Souza"],
+  "turmaId": "1º ano"
+}
+{
+  "nome": " Xicó Terebentildo",
+  "dataNascimento": "26/12/2020",
+  "responsaveisIds": ["Rosinha Terebentildo", "Brucisfild Terebentildo"],
+  "turmaId": "1º ano"
+}
+{
+  "nome": "Jorge Araújo ",
+  "dataNascimento": "21/09/2020",
+  "responsaveisIds": ["Mirela Araújo", "Ojuara Araújo"],
+  "turmaId": "1º ano"
+}
+{
+  "nome": "João Grilo ",
+  "dataNascimento": "09/03/2019",
+  "responsaveisIds": ["Clenilda Grilo", "Murilo Grilo"],
+  "turmaId": "2º ano"
+}
+
