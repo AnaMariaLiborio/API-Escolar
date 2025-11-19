@@ -1,4 +1,20 @@
 {
-  "nome": "Maternal A",
-  "capacidade": 20
+  "nome": "Maternal Nível V",
+  "capacidade": 5
+}
+{
+  "nome":"1º Ano",
+  "capacidade": "5"
+}
+}
+  "nome":"2º Ano",
+  "capacidade":"5"
+}
+{
+  "nome": "3º Ano",
+  "capacidade": "5"
+}
+{
+  "nome": "4º Ano",
+  "capacidade" : "5"
 }
