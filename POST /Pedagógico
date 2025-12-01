@@ -1,6 +1,35 @@
+------------------------Xicó Terebentildo (Mentiroso)---------------
 {
-  "alunoId": "a1",
-  "habilidade": "Coordenação motora fina",
-  "descricao": "Conseguiu usar tesoura sem ajuda.",
-  "data": "2025-11-14"
+  "alunoId": "Xicó Terebentildo",
+  "habilidade": "Expressão oral",
+  "descricao": "Participou da roda de conversa e conseguiu relatar um acontecimento do dia com mais clareza e objetividade.",
+  "data": "2025-11-30"
+}
+-------------------Jorge Araújo (autista)--------------------
+{
+  "alunoId": "Jorge Araújo",
+  "habilidade": "Interação social",
+  "descricao": "Aceitou participar de atividade em dupla e manteve contato visual por mais tempo do que o habitual.",
+  "data": "2025-11-30"
+}
+--------------------João Grilo (muito bagunceiro)----------------
+{
+  "alunoId": "João Grilo",
+  "habilidade": "Organização e autocontrole",
+  "descricao": "Conseguiu permanecer sentado durante toda a atividade e completou a tarefa sem se distrair.",
+  "data": "2025-11-30"
+}
+------------------------- Aluno comum--------------------
+{
+  "alunoId": "Fibraldo Centrífuga",
+  "habilidade": "Raciocínio lógico",
+  "descricao": "Identificou padrões simples em uma sequência e explicou o critério usado para a escolha.",
+  "data": "2025-11-30"
+}
+_-------------- Anelise ( Autodidata)---------------------
+{
+  "alunoId": "Anelise Ishikawa",
+  "habilidade": "Autonomia de aprendizagem",
+  "descricao": "Aprendeu sozinha um novo método de organização de materiais e ensinou aos colegas.",
+  "data": "2025-11-30"
 }
