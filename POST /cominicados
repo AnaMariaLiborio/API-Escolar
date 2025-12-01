@@ -1,6 +1,49 @@
+----------------Consciência Negra----------------
 {
-  "alunoId": "a1",
-  "tipo": "ALIMENTAÇÃO",
-  "mensagem": "Comeu bem e aceitou frutas.",
-  "data": "2025-11-14"
+  "alunoId": "Bernardete Marquense",
+  "tipo": "EVENTO / FERIADO",
+  "mensagem": "Bernardete Marquense participou das atividades sobre Consciência Negra, demonstrando respeito e interesse pelos temas trabalhados.",
+  "data": "2025-11-20"
+}
+----------------Dia da Água------------------
+{
+  "alunoId": "Sandro Costa",
+  "tipo": "EVENTO / FERIADO",
+  "mensagem": "Sandro Costa engajou-se nas dinâmicas sobre a importância da água e ajudou na construção do mural coletivo.",
+  "data": "2025-03-22"
+}
+----------------Dia do Índio------------------------
+{
+  "alunoId": "Daiki Lee",
+  "tipo": "EVENTO / FERIADO",
+  "mensagem": "Daiki Lee participou das atividades culturais relacionadas ao Dia dos Povos Indígenas, demonstrando curiosidade e respeito.",
+  "data": "2025-04-19"
+}
+-------------Dia das Mães--------------------------
+{
+  "alunoId": "Medix Plasmiano",
+  "tipo": "EVENTO",
+  "mensagem": "Medix Plasmiano realizou a lembrancinha do Dia das Mães com capricho e participou das atividades comemorativas.",
+  "data": "2025-05-11"
+}
+-----------------Aula de Empreendedorismo------------------
+{
+  "alunoId": "Tixanypê Limpauvo",
+  "tipo": "ATIVIDADE",
+  "mensagem": "Tixanypê Limpauvo participou da aula de empreendedorismo e contribuiu com ideias durante a criação do mini-negócio da turma.",
+  "data": "2025-09-10"
+}
+----------Aula de Programação---------------
+{
+  "alunoId": "Gerósia Borges",
+  "tipo": "ATIVIDADE",
+  "mensagem": "Gerósia Borges aprendeu os conceitos iniciais de lógica de programação e concluiu os desafios propostos com autonomia.",
+  "data": "2025-08-18"
+}
+-----------Evento Dia dos Pais-----------------
+{
+  "alunoId": "Daniel Itajá",
+  "tipo": "EVENTO",
+  "mensagem": "Daniel Itajá participou das atividades do Dia dos Pais e entregou sua lembrancinha com entusiasmo.",
+  "data": "2025-08-12"
 }
