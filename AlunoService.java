@@ -28,10 +28,7 @@ public class AlunoService {
                 .orElseThrow(() -> new NoSuchElementException("Aluno não encontrado"));
     }
     
-    /**
-     * Lista todos os alunos do repositório.
-     * @return 
-     */
+
     public List<Aluno> listarTodos() {
         return repo.listarTodos(); 
     }
