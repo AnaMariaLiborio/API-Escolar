@@ -1,5 +1,282 @@
+------------------------- NIVEL V --------------------------
 {
-  "nome": "Ana Rodrigues",
-  "telefone": "99999-9999",
+  "filho": "Bernardo",
+  "nome": "Becholina Marquense",
+  "telefone": "",
   "relacao": "Mãe"
 }
+{
+  "filho": "Bernardo",
+  "nome": "Andrialison Marquense",
+  "telefone": "",
+  "relacao": "Pai"
+}
+{
+  "filho": "Eleonor",
+  "nome": "Apolonha Oliveira",
+  "telefone": "",
+  "relacao": "Mãe"
+}
+{
+  "filho": "Eleonor",
+  "nome": "Janiálison Oliveira",
+  "telefone": "",
+  "relacao": "Pai"
+}
+{
+  "filho": "Anelise",
+  "nome": "Teodora Ishikawa",
+  "telefone": "",
+  "relacao": "Mãe"
+}
+{
+  "filho": "Anelise",
+  "nome": "Teodoro Ishikawa",
+  "telefone": "",
+  "relacao": "Pai"
+}
+{
+  "filho": "Sandro",
+  "nome": "Natasha Costa",
+  "telefone": "",
+  "relacao": "Mãe"
+}
+{
+  "filho": "Sandro",
+  "nome": "Vaseslau Costa",
+  "telefone": "",
+  "relacao": "Pai"
+}
+------------------------------------- 1º ANO -------------------------------------
+{
+  "filho": "André",
+  "nome": "Agosia Souza",
+  "telefone": "",
+  "relacao": "Mãe"
+}
+{
+  "filho": "André",
+  "nome": "Francisglaisson Souza",
+  "telefone": "",
+  "relacao": "Pai"
+}
+{
+  "filho": "Jorge",
+  "nome": "Mirela Araújo",
+  "telefone": "",
+  "relacao": "Mãe"
+}
+{
+  "filho": "Jorge",
+  "nome": "Ojuara Araújo",
+  "telefone": "",
+  "relacao": "Pai"
+}
+{
+  "filho": "Xicó",
+  "nome": "Rosinha Terebentildo",
+  "telefone": "",
+  "relacao": "Mãe"
+}
+{
+  "filho": "Xicó",
+  "nome": "Brucisfild Terebentildo",
+  "telefone": "",
+  "relacao": "Pai"
+}
+{
+  "filho": "Carla",
+  "nome": "Rebeka Figuero",
+  "telefone": "",
+  "relacao": "Mãe"
+}
+{
+  "filho": "Carla",
+  "nome": "Joel Figueiro",
+  "telefone": "",
+  "relacao": "Pai"
+}
+{
+  "filho": "Daniel",
+  "nome": "Lauretania Itajá",
+  "telefone": "",
+  "relacao": "Mãe"
+}
+{
+  "filho": "Daniel",
+  "nome": "Mali Itajá",
+  "telefone": "",
+  "relacao": "Pai"
+}
+------------------------------ 2º ANO ------------------------------
+{
+  "filho": "João",
+  "nome": "Clenilda Grilo",
+  "telefone": "",
+  "relacao": "Mãe"
+}
+{
+  "filho": "João",
+  "nome": "Murilo Grilo",
+  "telefone": "",
+  "relacao": "Pai"
+}
+{
+  "filho": "Isa",
+  "nome": "Aline Fernandes",
+  "telefone": "",
+  "relacao": "Mãe"
+}
+{
+  "filho": "Isa",
+  "nome": "Isaquiel Fernandes",
+  "telefone": "",
+  "relacao": "Pai"
+}
+{
+  "filho": "Pedro",
+  "nome": "Beatriz Viana",
+  "telefone": "",
+  "relacao": "Mãe"
+}
+{
+  "filho": "Pedro",
+  "nome": "Nycolas Viana",
+  "telefone": "",
+  "relacao": "Pai"
+}
+{
+  "filho": "Fibraldo",
+  "nome": "Debian Centrifuga",
+  "telefone": "",
+  "relacao": "Mãe"
+}
+{
+  "filho": "Fibraldo",
+  "nome": "Latex Centrifuga",
+  "telefone": "",
+  "relacao": "Pai"
+}
+{
+  "filho": "Stanley",
+  "nome": "Cecílha Armando",
+  "telefone": "",
+  "relacao": "Mãe"
+}
+{
+  "filho": "Stanley",
+  "nome": "Aldebrã Armando",
+  "telefone": "",
+  "relacao": "Pai"
+}
+----------------------------- 3º ANO ----------------------
+{
+  "filho": "Bruno",
+  "nome": "Samara Macedo",
+  "telefone": "",
+  "relacao": "Mãe"
+}
+{
+  "filho": "Bruno",
+  "nome": "Micael Macedo",
+  "telefone": "",
+  "relacao": "Pai"
+}
+{
+  "filho": "Tanos",
+  "nome": "Carmem Floriano",
+  "telefone": "",
+  "relacao": "Mãe"
+}
+{
+  "filho": "Tanos",
+  "nome": "Leopoudo Floriano",
+  "telefone": "",
+  "relacao": "Pai"
+}
+{
+  "filho": "Vanderson",
+  "nome": "Aurora Martins",
+  "telefone": "",
+  "relacao": "Mãe"
+}
+{
+  "filho": "Vanderson",
+  "nome": "Rafael Martins",
+  "telefone": "",
+  "relacao": "Pai"
+}
+{
+  "filho": "Tixanypê",
+  "nome": "Vanda Limpauvo",
+  "telefone": "",
+  "relacao": "Mãe"
+}
+{
+  "filho": "Tixanypê",
+  "nome": "Victor Limpauvo",
+  "telefone": "",
+  "relacao": "Pai"
+}
+{
+  "filho": "Medix",
+  "nome": "Lissandra Plasmiano",
+  "telefone": "",
+  "relacao": "Mãe"
+}
+{
+  "filho": "Medix",
+  "nome": "Dorian Plasmiano",
+  "telefone": "",
+  "relacao": "Pai"
+}
+--------------------------------- 4º ANO -----------------------------
+{
+  "filho": "Alice",
+  "nome": "Marina Souza",
+  "telefone": "",
+  "relacao": "Mãe"
+}
+{
+  "filho": "Alice",
+  "nome": "Paulo Souza",
+  "telefone": "",
+  "relacao": "Pai"
+}
+{
+  "filho": "Amanda",
+  "nome": "Eliara Garcia",
+  "telefone": "",
+  "relacao": "Mãe"
+}
+{
+  "filho": "Amanda",
+  "nome": "Milo Garcia",
+  "telefone": "",
+  "relacao": "Pai"
+}
+{
+  "filho": "Daiki",
+  "nome": "Surime Lee",
+  "telefone": "",
+  "relacao": "Mãe"
+}
+{
+  "filho": "Daiki",
+  "nome": "Suzako Lee",
+  "telefone": "",
+  "relacao": "Pai"
+}
+{
+  "filho": "Gerósia",
+  "nome": "Celeni Borges",
+  "telefone": "",
+  "relacao": "Mãe"
+}
+{
+  "filho": "Gerósia",
+  "nome": "Ilano Borges",
+  "telefone": "",
+  "relacao": "Pai"
+}
+
